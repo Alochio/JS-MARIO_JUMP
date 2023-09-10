@@ -13,6 +13,6 @@
 Aqui estão algumas capturas de tela do jogo:
 
 ![Screenshot 1](https://github.com/Alochio/Mario-Jump/blob/bab8cde03252e223c41e46e2706afb9531ec0081/imgs%20readme/01.png)
-![Screenshot 2](https://github.com/Alochio/MarioJump/blob/0a04117801b5073d19a419a858c168054fa26bfa/imgs%20readme/02.png)
-![Screenshot 3](imgs readme/03.png)
-![Screenshot 4](imgs readme/04.png)
+![Screenshot 2](https://github.com/Alochio/Mario-Jump/blob/bd477e1ccc0d01eea1a2bd9f708dc51a25466f8c/imgs%20readme/02.png)
+![Screenshot 3](https://github.com/Alochio/Mario-Jump/blob/bd477e1ccc0d01eea1a2bd9f708dc51a25466f8c/imgs%20readme/03.png)
+![Screenshot 4](https://github.com/Alochio/Mario-Jump/blob/bd477e1ccc0d01eea1a2bd9f708dc51a25466f8c/imgs%20readme/04.png)
