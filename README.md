@@ -12,7 +12,7 @@
 
 Aqui estão algumas capturas de tela do jogo:
 
-![Screenshot 1](/imgs-readme/01.png)
+![Screenshot 1](/imgs readme/01.png)
 ![Screenshot 2](/imgs-readme/02.png)
 ![Screenshot 3](/imgs-readme/03.png)
 ![Screenshot 4](/imgs-readme/04.png)
