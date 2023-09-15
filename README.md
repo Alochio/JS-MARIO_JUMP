@@ -2,13 +2,18 @@
 
 **Mario Jump** é um jogo simples desenvolvido com HTML, CSS e JavaScript, inspirado no clássico jogo do Mario. No jogo, o objetivo é ajudar o Mario a saltar sobre os canos.
 
-## Como Jogar
+## Tecnologias utilizadas:
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  
+## Como Jogar:
 
 1. Abra o arquivo `index.html` no seu navegador web.
 2. Precione qualquer tecla para ir saltando sobre os canos.
 3. Evite colidir com os canos para continuar avançando.
 
-## Screenshots
+## Screenshots:
 
 Aqui estão algumas capturas de tela do jogo:
 
